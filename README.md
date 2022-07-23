@@ -9,5 +9,5 @@
 
 Wish me luck on my journey!
 
-- *spoods ^-^* :joy:
+- *spoods ^-^* 🙂
 
