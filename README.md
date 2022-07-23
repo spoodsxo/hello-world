@@ -1,4 +1,4 @@
-# H1 hello-world
+## hello-world
 
 **WELCOME!!**
 
@@ -9,5 +9,5 @@
 
 Wish me luck on my journey!
 
-- *spoods ^-^*
+- *spoods ^-^* :joy:
 
